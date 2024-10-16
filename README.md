@@ -10,7 +10,7 @@
 
 ## 数据集介绍
 
-### 1. [MedCell](https://pan.baidu.com/s/1UbOIvaXYqIuKF4H60u3Rjg?pwd=u5r4)数据集
+### 1. [MedCell](https://pan.baidu.com/s/1UbOIvaXYqIuKF4H60u3Rjg?pwd=u5r4) 数据集
 
 <p align="left">
   <img src="./images/sample1.jpg" alt="示例图片1" width="300" />
