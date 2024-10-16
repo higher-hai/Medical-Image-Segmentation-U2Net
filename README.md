@@ -36,7 +36,7 @@ data
 
 ## 使用说明
 
-1. **加载预训练权重**：点击[此处](https://pan.baidu.com/s/14yZTXzMcuXhrxICEGs8zXQ?pwd=kdyq)下载，并将其放入 `src` 文件夹中。
+1. **加载预训练权重**：点击[此处](https://pan.baidu.com/s/1PGBPIFJF_BHMvLUV4b3xpQ?pwd=g7vi)下载。
 2. **单 GPU 或 CPU 训练**: 直接使用 `train.py` 脚本进行训练。
 3. **多 GPU 训练**: 使用以下指令进行训练：
    ```bash
