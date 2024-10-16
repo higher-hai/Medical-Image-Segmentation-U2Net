@@ -1,0 +1,4 @@
+data/*
+!data/.gitkeep
+save_weights/*
+src/u2net_full.onnx

@@ -1,0 +1,11 @@
+[epoch: 0] train_loss: 0.9001 lr: 0.000500 MAE: 0.041 maxF1: 0.849 
+[epoch: 2] train_loss: 0.3432 lr: 0.000999 MAE: 0.011 maxF1: 0.899 
+[epoch: 4] train_loss: 0.3180 lr: 0.000990 MAE: 0.012 maxF1: 0.900 
+[epoch: 6] train_loss: 0.3047 lr: 0.000973 MAE: 0.012 maxF1: 0.900 
+[epoch: 8] train_loss: 0.2960 lr: 0.000948 MAE: 0.010 maxF1: 0.904 
+[epoch: 10] train_loss: 0.2919 lr: 0.000916 MAE: 0.010 maxF1: 0.903 
+[epoch: 12] train_loss: 0.2757 lr: 0.000876 MAE: 0.010 maxF1: 0.904 
+[epoch: 14] train_loss: 0.2634 lr: 0.000830 MAE: 0.010 maxF1: 0.906 
+[epoch: 16] train_loss: 0.2515 lr: 0.000778 MAE: 0.010 maxF1: 0.909 
+[epoch: 18] train_loss: 0.2510 lr: 0.000721 MAE: 0.010 maxF1: 0.904 
+[epoch: 20] train_loss: 0.2500 lr: 0.000661 MAE: 0.010 maxF1: 0.908 
